@@ -1,6 +1,6 @@
 enum class Nivel(val nivel: String) {
     BA("Basico"),
-    IN("INntermediario"),
+    IN("Intermediario"),
     AV("Avançado")
 
 }
